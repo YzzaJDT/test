@@ -13,4 +13,4 @@
         - HomePage
 -Always trying to run in order to see the output and the responsiveness of a web.
 -Searching those functionality like frame motion and how to implement it. 
--Using npm run start in order to run the project
+-Using npm start in order to run the project
