@@ -1,11 +1,11 @@
 
 import HomePage from './Components/HomePage';
-import Footer from './Components/footer';
-import InstagramHome from './Components/InstagramLogin';
+import Footer from './Components/Footer';
+
 function App() {
   return (
-    <div className='bg-black' >
-    <InstagramHome />
+    <div className='bg-black justify-center min-h-screen' >
+      <HomePage />
        <Footer />
     </div>
   );

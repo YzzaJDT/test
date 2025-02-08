@@ -2,11 +2,13 @@ import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import screenShot1 from '../assets/screenshot1.png';
 import screenShot2 from '../assets/screenshot2.png';
+import screenShot3 from '../assets/screenshot3.png';
+import screenShot4 from '../assets/screenshot4.png';
 import homePhone from "../assets/home-phones.png";
 
-const images = [screenShot1, screenShot2];
+const images = [screenShot1, screenShot2, screenShot3, screenShot4];
 
-const Footer = () => {
+const MobileMockup = () => {
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
@@ -44,4 +46,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default MobileMockup;
