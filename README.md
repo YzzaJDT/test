@@ -1,10 +1,17 @@
 -Reading instructions on a test and understand.
+
 -Planning what to do and what should I need to do.
+
 -First, create a new React project Folder
+
 -Run a command installing react v18.
+
 -Install Tailwind CSS and configuring Tailwind
+
 -Using Tailwind CSS to make the design more responsive.
+
 -set up a folder Structure
+
     components File
         - Footer
         - LoginForm
