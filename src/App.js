@@ -1,12 +1,12 @@
 
 import HomePage from './Components/HomePage';
-import Footer from './Components/Footer';
+import FooterFile from './Components/FooterFile';
 
 function App() {
   return (
     <div className='bg-black justify-center min-h-screen' >
       <HomePage />
-       <Footer />
+       <FooterFile />
     </div>
   );
 }
